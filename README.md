@@ -1,30 +1,62 @@
-# Daily activity log
+# 📝 Daily Activity Log
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+Selamat datang di repositori **Daily Activity Log**!  
+Aplikasi ini dirancang untuk membantu Anda mencatat dan mengelola kegiatan harian dengan cara yang efisien dan terorganisir.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/kadentoke-6561s-projects/v0-daily-activity-log)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/B4RckK4gxe9)
+---
 
-## Overview
+## 🚀 Gambaran Umum Proyek
+Daily Activity Log adalah aplikasi web **Full-Stack** yang menyediakan platform digital untuk melacak aktivitas sehari-hari.  
+Kami menerapkan fungsionalitas **CRUD (Create, Read, Update, Delete)** penuh, memastikan Anda memiliki kontrol penuh atas catatan Anda.
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+Selama fase pengembangan, kami menggunakan **IBM Granite** sebagai asisten AI untuk mempercepat alur kerja dan meningkatkan kualitas kode.  
+⚠️ *Perlu diingat, AI ini hanyalah alat bantu dalam proses pembuatan dan tidak ada di dalam produk akhir.*
 
-## Deployment
+---
 
-Your project is live at:
+## 🛠️ Teknologi yang Digunakan
 
-**[https://vercel.com/kadentoke-6561s-projects/v0-daily-activity-log](https://vercel.com/kadentoke-6561s-projects/v0-daily-activity-log)**
+### Frontend
+- **Next.js** → Framework React yang kuat untuk membangun antarmuka pengguna yang cepat dan responsif.  
+- **TypeScript** → Bahasa pemrograman yang menambahkan static typing untuk kode yang lebih stabil dan bebas bug.
 
-## Build your app
+### Backend & Database
+- **Supabase** → Platform Backend-as-a-Service yang menyediakan database PostgreSQL dan layanan autentikasi.
 
-Continue building your app on:
+### Deployment
+- **Vercel** → Platform deployment yang terintegrasi dengan Next.js, memastikan aplikasi selalu **up and running** dengan performa terbaik.
 
-**[https://v0.app/chat/projects/B4RckK4gxe9](https://v0.app/chat/projects/B4RckK4gxe9)**
+### Dukungan AI
+- **IBM Granite** → Digunakan selama pengembangan untuk *code generation*, *refactoring*, dan dokumentasi otomatis.
 
-## How It Works
+---
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+## ✨ Fitur Utama
+- ➕ **Tambah Kegiatan** → Buat entri baru untuk setiap kegiatan harian.  
+- 📖 **Lihat Kegiatan** → Akses semua catatan dalam tampilan terorganisir.  
+- ✍️ **Ubah Kegiatan** → Perbarui detail kegiatan yang sudah ada.  
+- 🗑️ **Hapus Kegiatan** → Bersihkan catatan yang tidak diperlukan.  
+- 🔒 **Autentikasi Pengguna** → Akun pribadi yang aman untuk menjaga kerahasiaan data.  
+
+---
+
+## 🤖 Peran AI dalam Pengembangan
+Meskipun **IBM Granite** tidak termasuk dalam produk akhir, perannya sangat penting dalam fase pengembangan:
+
+- ⚡ **Mempercepat Pengembangan** → Menghasilkan *boilerplate code* repetitif.  
+- 🧹 **Meningkatkan Kualitas Kode** → Memberikan saran *refactoring* agar lebih bersih dan efisien.  
+- 📚 **Memperkaya Dokumentasi** → Mengotomatisasi pembuatan dokumentasi proyek.  
+
+---
+
+## 💻 Cara Mengakses Aplikasi
+Aplikasi sudah di-*deploy* dan dapat diakses melalui tautan berikut:  
+
+👉 [Daily Activity Log on Vercel](https://vercel.com/kadentoke-6561s-projects/v0-daily-activity-log)
+
+---
+
+Terima kasih telah mengunjungi repositori ini!  
+Jika Anda memiliki pertanyaan, jangan ragu untuk menghubungi.  
+
+✨ Selamat mencatat kegiatan!
