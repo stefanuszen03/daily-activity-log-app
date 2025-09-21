@@ -57,6 +57,5 @@ Aplikasi sudah di-*deploy* dan dapat diakses melalui tautan berikut:
 ---
 
 Terima kasih telah mengunjungi repositori ini!  
-Jika Anda memiliki pertanyaan, jangan ragu untuk menghubungi.  
 
 ✨ Selamat mencatat kegiatan!
