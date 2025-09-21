@@ -52,7 +52,7 @@ Meskipun **IBM Granite** tidak termasuk dalam produk akhir, perannya sangat pent
 ## 💻 Cara Mengakses Aplikasi
 Aplikasi sudah di-*deploy* dan dapat diakses melalui tautan berikut:  
 
-👉 [Daily Activity Log on Vercel]([https://v0-daily-activity-log.vercel.app/))
+👉 https://v0-daily-activity-log.vercel.app/
 
 ---
 
